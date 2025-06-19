@@ -1,7 +1,4 @@
-### 📝 **Simple Notes App – Easynotes**
-
-```markdown
-# NoteEase
+# EasyNote
 
 A minimalist note-taking app for quick and efficient daily notes. Notes are stored locally on the device or in the cloud via API.
 
