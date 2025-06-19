@@ -17,6 +17,6 @@ A minimalist note-taking app for quick and efficient daily notes. Notes are stor
 
 ```bash
 git clone https://github.com/Ronel1409/noteease.git
-cd noteease
+cd easynotes
 npm install
 npm start
